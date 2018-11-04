@@ -1,11 +1,19 @@
-# 🙋‍♀️ _Hi, friend! Pleased to meet you._ 
+# 🙋‍♂️ _Hi, friend!_ 
 
-Chances are, I've either directed you here, or you've been spelunking through my [open-source projects and talks](https://dynamicwebpaige.github.io/projects/): in which case, welcome! Take a look around, read through my principles (listed below 👇), and [let me know if you have any questions](mailto:paige.bailey@microsoft.com). 
+You are here either because I directed you here or because you've stalked me around on the internet. Either way, nice too meet you. This is my Github personal landing page. There's not much here, but I hear it's a nice blogging platform.
 
-Looking forward to working with you!
 
-*******
+## 🔍 `whoami`
 
-## `whoami`
+My name is **Cristian Ilea**. I am a software engineer based in **Europe🇪🇺**. I do freelancing **iOS**📱 work by day and **AI / Machine Learning📈** by night - which actually means that I am finishing my Master's degree in **Applied Computational Intelligence🧠**.
 
-### ⌚ Hours
+## 🗺 Location
+
+I am currently based in beautiful **Cluj-Napoca, Romania🇷🇴**.
+Here's a picture of the place:
+
+![](http://www.justitiecurata.ro/wp-content/uploads/2016/11/Panorama_centru_istoric_Cluj-Napoca_2_W.jpg)
+
+## 📞 Contact
+
+I am available via [**email**](mailto:ileacristian@gmail.com), and [**Twitter**](https://www.twitter.com/ileacristian) at all times. Please feel free to contact me if you have any business inqiries, questions or you just want to say hi.
