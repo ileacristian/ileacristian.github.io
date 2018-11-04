@@ -1,13 +1,15 @@
 # 🙋‍♂️ _Hi, friend!_ 
+<img align="right" src="img.jpeg">
 
-You are here either because I directed you here or because you've stalked me around on the internet. Either way, nice too meet you. This is my Github personal landing page. There's not much here, but I hear it's a nice blogging platform.
+
+You are here either because I directed you here or because you've stalked me around on the internet. Either way, nice to meet you. This is my Github personal landing page. There's not much here, but I hear it's a nice blogging platform.
 
 
 ## 🔍 `whoami`
 
 My name is **Cristian Ilea**. I am a software engineer based in **Europe🇪🇺**. I do freelancing **iOS**📱 work by day and **AI / Machine Learning📈** by night - which actually means that I am finishing my Master's degree in **Applied Computational Intelligence🧠**.
 
-![Some Title](img.jpeg)
+![A picture of me](img.jpeg)
 
 ## 🗺 Location
 
