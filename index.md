@@ -7,7 +7,7 @@ You are here either because I directed you here or because you've stalked me aro
 
 My name is **Cristian Ilea**. I am a software engineer based in **Europe🇪🇺**. I do freelancing **iOS**📱 work by day and **AI / Machine Learning📈** by night - which actually means that I am finishing my Master's degree in **Applied Computational Intelligence🧠**.
 
-![](https://uc69755e1959dd6da2a9af3486be.previews.dropboxusercontent.com/p/thumb/AAP39xJh_cgyRGs-0lcjbnaoMkwcE_hDB3ELWNigvhWKTm9JyqHFVjZsLK--__D1RNWd4LgY95HmXwqMokfX3npKmGj3xdEbU-xPFubuS7Xcc9aWOskXGscHyw_znSan98ubJ9o-sx4biE7p8IJW5SXJIjDQnEbVB1GDSExnk9h0XO0nw9q4ltVOvH1tyh7cy0Ou4R3LyxsIvnarc6YKBGOw7-bWAAt3yHBjWJ4kOE8SI_zVGXyOa5NT55H-mg1zVN_g8TuyhNbYVzoB0HHO7LwE/p.jpeg?size=2048x1536&size_mode=3)
+![](https://uc69755e1959dd6da2a9af3486be.previews.dropboxusercontent.com/p/thumb/AAP39xJh_cgyRGs-0lcjbnaoMkwcE_hDB3ELWNigvhWKTm9JyqHFVjZsLK--__D1RNWd4LgY95HmXwqMokfX3npKmGj3xdEbU-xPFubuS7Xcc9aWOskXGscHyw_znSan98ubJ9o-sx4biE7p8IJW5SXJIjDQnEbVB1GDSExnk9h0XO0nw9q4ltVOvH1tyh7cy0Ou4R3LyxsIvnarc6YKBGOw7-bWAAt3yHBjWJ4kOE8SI_zVGXyOa5NT55H-mg1zVN_g8TuyhNbYVzoB0HHO7LwE/p.jpeg =250x)
 
 ## 🗺 Location
 
