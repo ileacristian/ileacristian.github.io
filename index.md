@@ -1,6 +1,6 @@
 # 🙋‍♂️ _Hi, friend!_ 
-<img align="right" src="img.jpeg">
 
+<img align="right" src="img.jpeg" style="padding-left:20px">
 
 You are here either because I directed you here or because you've stalked me around on the internet. Either way, nice to meet you. This is my Github personal landing page. There's not much here, but I hear it's a nice blogging platform.
 
@@ -9,8 +9,8 @@ You are here either because I directed you here or because you've stalked me aro
 
 My name is **Cristian Ilea**. I am a software engineer based in **Europe🇪🇺**. I do freelancing **iOS**📱 work by day and **AI / Machine Learning📈** by night - which actually means that I am finishing my Master's degree in **Applied Computational Intelligence🧠**.
 
-![A picture of me](img.jpeg)
-
+<!--![A picture of me](img.jpeg)
+-->
 ## 🗺 Location
 
 I am currently based in beautiful **Cluj-Napoca, Romania🇷🇴**.
